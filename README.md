@@ -1,0 +1,2 @@
+# Sayali_FBS_work
+My learning and practice repository covering Core Python, Python Libraries, SQL, Data Science, and Data Analytics, with hands-on programs, assignments, problem-solving, data visualization, and projects.
