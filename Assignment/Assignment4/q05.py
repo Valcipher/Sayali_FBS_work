@@ -1,0 +1,11 @@
+#Q5. WAP to print Fibonacci series upto n.
+
+num = int(input('enter a num: '))
+
+a = -1
+b = 1
+for i in range(num):
+    c = a + b 
+    print(c, end=' ')
+    a = b 
+    b = c
